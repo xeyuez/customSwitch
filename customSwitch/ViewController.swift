@@ -21,6 +21,13 @@ class ViewController: UIViewController {
         switchBtn?.onChage = { isOn in
             self.didTap(isOn: isOn)
         }
+        
+        
+        
+        let vs = customProgress(frame: CGRect(x: 50, y: 200, width: 200, height: 200))
+        vs.backgroundColor = UIColor.lightGray
+        vs.startAnimation()
+        self.view.addSubview(vs)
     }
 
     func didTap(isOn: Bool) {

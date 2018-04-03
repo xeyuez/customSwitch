@@ -13,6 +13,7 @@
 		395DB6BA206E0D200015BE30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 395DB6B9206E0D200015BE30 /* Assets.xcassets */; };
 		395DB6BD206E0D200015BE30 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 395DB6BB206E0D200015BE30 /* LaunchScreen.storyboard */; };
 		395DB6C5206E0D5D0015BE30 /* CustomSwitch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 395DB6C4206E0D5D0015BE30 /* CustomSwitch.swift */; };
+		39D8BCAE2073214900547750 /* customProgress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39D8BCAD2073214900547750 /* customProgress.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		395DB6BC206E0D200015BE30 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		395DB6BE206E0D200015BE30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		395DB6C4206E0D5D0015BE30 /* CustomSwitch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSwitch.swift; sourceTree = "<group>"; };
+		39D8BCAD2073214900547750 /* customProgress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = customProgress.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				395DB6B2206E0D200015BE30 /* AppDelegate.swift */,
 				395DB6B4206E0D200015BE30 /* ViewController.swift */,
 				395DB6C4206E0D5D0015BE30 /* CustomSwitch.swift */,
+				39D8BCAD2073214900547750 /* customProgress.swift */,
 				395DB6B6206E0D200015BE30 /* Main.storyboard */,
 				395DB6B9206E0D200015BE30 /* Assets.xcassets */,
 				395DB6BB206E0D200015BE30 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 				395DB6B5206E0D200015BE30 /* ViewController.swift in Sources */,
 				395DB6B3206E0D200015BE30 /* AppDelegate.swift in Sources */,
 				395DB6C5206E0D5D0015BE30 /* CustomSwitch.swift in Sources */,
+				39D8BCAE2073214900547750 /* customProgress.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
